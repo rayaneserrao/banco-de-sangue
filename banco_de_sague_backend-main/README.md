@@ -63,13 +63,4 @@ Caso queira fazer a integração localmente entre esse backend e o frontend cria
 
 - Ver e copiar o ip de rede usb que conecta seu smartphone ao seu computador;
 - Rodar o spring assim:
-  - mvn spring-boot:run -Dserver.address=_ip-de-rede-usb-do-seu-celular_ -Dserver.port=8080
-
-
-## Autor
-
-Olá, sou o Lázaro Alexandre, um desenvolvedor full stack e futuro analista de sistemas apaixonado por transformar vidas através da inovação tecnológica.
-
-Para mais informações, acesse o meu portifólio: https://homolazarus.netlify.app/
-
-Estarei te aguardando ^-^
+- mvn spring-boot:run -Dserver.address=_ip-de-rede-usb-do-seu-celular_ -Dserver.port=8080
